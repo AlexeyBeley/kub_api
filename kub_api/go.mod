@@ -1,4 +1,4 @@
-module github.com/AlexeyBeley/kube_api
+module github.com/AlexeyBeley/kub_api/kub_api
 
 go 1.24.0
 

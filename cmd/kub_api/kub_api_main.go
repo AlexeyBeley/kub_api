@@ -5,8 +5,9 @@ import (
 	"path/filepath"
 
 	"github.com/AlexeyBeley/go_common/logger"
-	"github.com/AlexeyBeley/kub_api"
 	"k8s.io/client-go/util/homedir"
+	"github.com/AlexeyBeley/kub_api/kub_api"
+
 )
 
 var lg = &(logger.Logger{})

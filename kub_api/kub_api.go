@@ -19,7 +19,7 @@ func list(kubeconfig *string) {
 	config, err := clientcmd.BuildConfigFromFlags("", *kubeconfig)
 	if err != nil {
 		fmt.Printf("Error building kubeconfig: %v\n", err)
-		config, err = clientcmd.InClusterConfig()
+		//config, err = clientcmd.InClusterConfig()
 		if err != nil {
 			fmt.Printf("Error building in-cluster config: %v\n", err)
 			os.Exit(1)
