@@ -1,0 +1,4 @@
+github.com/AlexeyBeley/go_common v0.0.1 h1:uf8yLX9Or3vM082N2sLCBPZCwGhJN8hZV5JJpbhuUW0=
+github.com/AlexeyBeley/go_common v0.0.1/go.mod h1:XlZrRe5vWRF+/T9MEo6oMXKu0oJmvQfGOSjIEFZfgIg=
+k8s.io/client-go v0.33.0 h1:UASR0sAYVUzs2kYuKn/ZakZlcs2bEHaizrrHUZg0G98=
+k8s.io/client-go v0.33.0/go.mod h1:kGkd+l/gNGg8GYWAPr0xF1rRKvVWvzh9vmZAMXtaKOg=
